@@ -9,3 +9,11 @@ git log - gives us a history of our commits so far
 git remote add origin <address of repo> - creates the link between our pc and github
 git branch -M main
 git push -u origin main - for our first push
+
+add -> commit -> push
+
+CI/CD - continuous integration and continuous development
+
+git branch
+git checkout -b dev - adds a new branch called dev and switches to it
+git checkout main - switches to an existing branch

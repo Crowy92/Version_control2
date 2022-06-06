@@ -17,3 +17,4 @@ CI/CD - continuous integration and continuous development
 git branch
 git checkout -b dev - adds a new branch called dev and switches to it
 git checkout main - switches to an existing branch
+git push --set-upstream origin dev - this allows us to push our new branch
